@@ -9,6 +9,8 @@ kaiawhina (keye-AW-FEE-nuh) or helper in Maori, is a discord bot whose main focu
 - `npm install @discordjs/rest discord-api-types`
 - `npm i dotenv discord.js discord-player @discordjs/voice @discordjs/rest @discordjs/opus @discordjs/builders`
 
+Additionally, make sure to add a config.json file that containts your bot's token, clientId and your guildID
+
 # Run
 
 `npm .`
